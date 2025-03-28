@@ -1,0 +1,45 @@
+.footer {
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .social-icons a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: aqua;
+  }
+  
+  .icon {
+    font-size: 1.5rem;
+  }
+  
+  /* Hide social icons in footer for desktop */
+  @media (min-width: 769px) {
+    .footer .social-icons {
+      display: none;
+    }
+  }
