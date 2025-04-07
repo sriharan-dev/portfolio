@@ -17,7 +17,7 @@ const Home = () => {
             Front-end Developer with a passion for creating beautiful and
             functional web applications.
           </p>
-          <a href="sriharan_resume.docx" download className="download-cv">
+          <a href="sriharan_resume.pdf" download className="download-cv">
             <FaDownload /> Download CV
           </a>
         </div>

@@ -151,7 +151,7 @@ const About = () => {
                     teams to deliver efficient, and user-friendly web
                     applications.
                   </p>
-                  <p>2025 - Present</p>
+                  <p>Sept 2024 - April 2025</p>
                 </div>
               </div>
               </Fade>
@@ -159,11 +159,11 @@ const About = () => {
               <div className="time-line-content">
                 <div className="timeline-card">
                   <h4>PHP Developer Intern</h4>
-                  <p className="time-line-name">King Phoenix IT Solution and Training</p>
+                  <p className="time-line-name">Uk Info Tech</p>
                   <p className="timeline-description">
                   A PHP intern developer with front-end skills works on creating user interfaces using HTML, CSS, and JavaScript, ensuring seamless integration with PHP back-end systems. 
                   </p>
-                  <p>2024 - 2025</p>
+                  <p>2024</p>
                 </div>
               </div>
               </Fade>
