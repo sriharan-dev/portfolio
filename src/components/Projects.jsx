@@ -54,7 +54,7 @@ const Projects = () => {
       description:
       "Oovanoo is a feature-rich food delivery platform designed for online ordering and doorstep delivery. It connects users with a wide range of restaurants and food partners, allowing them to browse menus, place orders, and track deliveries in real-time. The platform ensures a smooth user experience with secure payment options. Oovanoo supports partner integrations, making it an ideal solution for expanding food businesses.",
       technologies: "HTML, CSS , Bootstrap , JavaScript , PHP , SQL",
-      links:"https://github.com/sriharan-dev/oovanoo-website",
+      links:"https://www.oovanoo.com/",
       image: "oovanoo_logo.png",
       additionalImages: [
         "project-4_1.png",
